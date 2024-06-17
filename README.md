@@ -6,6 +6,7 @@ Tools Covered : Advanced Excel, Power BI, Tableau, MySQL
 Analyzed extensive HR Analytics data to identify and address employee attrition issues.
 
 KPIs :
+
 1.Average Attrition rate for all Departments
 
 2.Average Hourly rate of Male Research Scientist
